@@ -3,7 +3,8 @@ import { BrowserRouter as Router, Route } from 'react-router-dom';
 import NavBar from './components/UI/NavBar/NavBar';
 import UserDashboard from './user/UserDashboard/UserDashboard';
 import EditForm from './user/Forms/EditForm';
-import AddForm from './user/Forms/AddForm';
+// import AddForm from './user/Forms/AddForm';
+import AddForm from './user/Forms/AddForm2';
 
 function App() {
   return (
